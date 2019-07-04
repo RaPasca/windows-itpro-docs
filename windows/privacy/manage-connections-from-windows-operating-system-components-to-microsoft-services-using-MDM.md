@@ -18,7 +18,7 @@ ms.date: 3/1/2019
 
 -   Windows 10 Enterprise 1903 version and newer
 
-You can use Microsoft InTune with MDM CSPs and custom [OMA URIs](https://docs.microsoft.com/intune/custom-settings-windows-10) to minimize connections from Windows to Microsoft services, or to configure particular privacy settings. You can configure diagnostic data at the lowest level for your edition of Windows, and also evaluate which other connections Windows makes to Microsoft services you want to turn off in your environment from the list in this article.
+You can use Microsoft Intune with MDM CSPs and custom [OMA URIs](https://docs.microsoft.com/intune/custom-settings-windows-10) to minimize connections from Windows to Microsoft services, or to configure particular privacy settings. You can configure diagnostic data at the lowest level for your edition of Windows, and also evaluate which other connections Windows makes to Microsoft services you want to turn off in your environment from the list in this article.
 
 To ensure CSPs take priority over Group Policies in case of conflicts, use the [ControlPolicyConflict](https://docs.microsoft.com/windows/client-management/mdm/policy-csp-controlpolicyconflict) policy.
 
